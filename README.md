@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+# EX No. 6.1  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+### DATE: 16.08.2024
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -45,8 +45,9 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: AKSHAYAA M T
+### Register Number: 212223110002
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
+
